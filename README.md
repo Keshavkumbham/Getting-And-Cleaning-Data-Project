@@ -29,8 +29,11 @@ Steps to Get the output :
 * run_analysis.R contains my R script with brief comments for each step
 * save the run_analysis and edit the path for raw data files in your local drive.
 * Run the script, Automatically a Tidydata.txt and Tidaydata.csv are created
->> * OUTPUT produced:
+
+ * **OUTPUT produced:**
+
 >>     - It generates a txt file called Tidydata.txt which contain the Tidydata of the project.
+
 >>          - It also generates a csv file for view of the data.
 
 

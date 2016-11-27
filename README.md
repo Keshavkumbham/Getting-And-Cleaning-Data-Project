@@ -1,2 +1,4 @@
 # Getting-And-Cleaning-Data-Project
-making a tidy dataset 
+-------------------------------
+* **run_analysis.R contains my R script with brief comments for each step
+* **Run the file 
